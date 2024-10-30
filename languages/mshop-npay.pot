@@ -1,0 +1,1106 @@
+# Copyright (C) 2024 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: mshop-npay 3.3.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mshop-npay\n"
+"POT-Creation-Date: 2024-10-24 04:04:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: CodeM\n"
+"Poedit: \n"
+"Language: ko_KR\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/settings/class-mnp-settings.php:196
+#: includes/admin/settings/class-mnp-settings.php:208
+#: includes/admin/settings/class-mnp-settings.php:236
+msgid "1"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:197
+#: includes/admin/settings/class-mnp-settings.php:209
+#: includes/admin/settings/class-mnp-settings.php:237
+msgid "2"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:198
+msgid "3"
+msgstr ""
+
+#: includes/admin/class-mnp-admin-post-types.php:62
+#: includes/admin/class-mnp-admin-post-types.php:66
+msgid "발주확인 (NPay)"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:19
+msgid "네이버페이 결제관리"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:20
+#: includes/admin/settings/class-mnp-settings-sheet.php:74
+#: includes/admin/settings/class-mnp-settings.php:112
+msgid "기본 설정"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:23
+msgid "카테고리 설정"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:27
+msgid "주문 관리"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:28
+msgid "문의 관리"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:33
+msgid "송장업로드"
+msgstr ""
+
+#: includes/admin/class-mnp-admin.php:36
+msgid "매뉴얼"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-order.php:17
+msgid "<div class=\"npay-logo\"></div>&nbsp;"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-order.php:77
+msgid "주문정보 새로고침"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:12
+msgid "NPay 구매불가"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:12
+msgid "NPay 구매불가 상품 여부를 설정합니다."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:23
+#: includes/admin/settings/class-mnp-settings.php:459
+msgid "우편번호"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:24
+#: includes/admin/settings/class-mnp-settings.php:465
+msgid "기본주소"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:25
+#: includes/admin/settings/class-mnp-settings.php:471
+msgid "상세주소"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:26
+#: includes/admin/settings/class-mnp-settings.php:477
+msgid "수취인 이름"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:27
+#: includes/admin/settings/class-mnp-settings.php:483
+msgid "연락처 #1"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-mnp-meta-box-product-data.php:28
+#: includes/admin/settings/class-mnp-settings.php:489
+msgid "연락처 #2"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/approve-cancel-application.php:6
+#: includes/admin/meta-boxes/views/cancel-sale.php:21
+#: includes/admin/meta-boxes/views/delay-product-order.php:30
+#: includes/admin/meta-boxes/views/exchange.php:6
+#: includes/admin/meta-boxes/views/exchange.php:39
+#: includes/admin/meta-boxes/views/exchange.php:49
+#: includes/admin/meta-boxes/views/exchange.php:66
+#: includes/admin/meta-boxes/views/exchange.php:108
+#: includes/admin/meta-boxes/views/place-product-order.php:6
+#: includes/admin/meta-boxes/views/return.php:6
+#: includes/admin/meta-boxes/views/return.php:39
+#: includes/admin/meta-boxes/views/return.php:49
+#: includes/admin/meta-boxes/views/return.php:66
+#: includes/admin/meta-boxes/views/return.php:121
+#: includes/admin/meta-boxes/views/ship-product-order.php:43
+#: includes/class-mnp-manager.php:138
+msgid "취소"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:14
+msgid "구매확정"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:16
+msgid "입금대기"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:19
+msgid "취소완료"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:22
+msgid "미입금 취소"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:25
+msgid "반품환불완료"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:28
+msgid "교환 완료"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:31
+msgid "교환 재배송 처리"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:34
+msgid "반품요청"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:37
+msgid "(환불보류)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:41
+msgid "배송중"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:45
+msgid "배송 준비중 (%s까지 발송예정)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:48
+msgid "배송 준비중"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:50
+#: includes/class-mnp-manager.php:130
+msgid "결제 완료"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:55
+#: includes/class-mnp-manager.php:133
+msgid "취소 요청"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:58
+msgid "취소 처리중"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:63
+msgid "교환요청"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:65
+msgid "(교환보류)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:69
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:53
+#: includes/admin/meta-boxes/views/html-order-items.php:77
+#: includes/class-mnp-api.php:75
+msgid "교환수거완료"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:72
+msgid "교환재배송 중"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:78
+msgid "(교환거절)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:84
+msgid "(반품거절)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:93
+msgid "주문번호 : %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:98
+msgid "주문상태 : %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item-wc.php:108
+msgid "개인통관 고유부호 : %s"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:159
+msgid "Product ID:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:162
+msgid "Variation ID:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-item.php:166
+msgid "Product SKU:"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:18
+#: includes/admin/meta-boxes/views/html-order-items.php:42
+#: includes/class-mnp-api.php:62
+msgid "발주"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:20
+#: includes/admin/meta-boxes/views/html-order-items.php:44
+#: includes/class-mnp-api.php:63
+msgid "발송지연"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:22
+#: includes/admin/meta-boxes/views/html-order-items.php:46
+#: includes/class-mnp-api.php:64
+msgid "배송"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:29
+#: includes/admin/meta-boxes/views/html-order-items.php:53
+#: includes/class-mnp-api.php:66
+msgid "주문취소"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:31
+#: includes/admin/meta-boxes/views/html-order-items.php:55
+#: includes/class-mnp-api.php:67
+msgid "취소승인"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:38
+#: includes/admin/meta-boxes/views/html-order-items.php:62
+#: includes/class-mnp-api.php:69
+msgid "반품접수"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:40
+#: includes/admin/meta-boxes/views/html-order-items.php:64
+#: includes/class-mnp-api.php:70
+msgid "반품승인"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:42
+#: includes/admin/meta-boxes/views/html-order-items.php:66
+#: includes/class-mnp-api.php:71
+msgid "반품보류"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:44
+#: includes/admin/meta-boxes/views/html-order-items.php:68
+#: includes/class-mnp-api.php:72
+msgid "반품보류해제"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:46
+#: includes/admin/meta-boxes/views/html-order-items.php:70
+#: includes/class-mnp-api.php:73
+msgid "반품거절"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:55
+#: includes/admin/meta-boxes/views/html-order-items.php:79
+#: includes/class-mnp-api.php:76
+msgid "교환보류"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:57
+#: includes/admin/meta-boxes/views/html-order-items.php:81
+#: includes/class-mnp-api.php:77
+msgid "교환보류해제"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:59
+#: includes/admin/meta-boxes/views/html-order-items.php:83
+#: includes/class-mnp-api.php:78
+msgid "교환거절"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items-wc.php:61
+#: includes/admin/meta-boxes/views/html-order-items.php:85
+#: includes/class-mnp-api.php:79
+msgid "재발송"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:13
+msgid "상품주문번호"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:14
+msgid "상품정보"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:15
+msgid "가격"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:16
+msgid "수량"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-order-items.php:17
+msgid "주문상태"
+msgstr ""
+
+#: includes/admin/setting-manager/mshop-setting-helper.php:53
+msgid "비회원"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:78
+#: includes/admin/settings/class-mnp-settings.php:146
+msgid "동작 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:82
+msgid "배송처리 후 변경될 주문상태"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:89
+msgid "모든 주문 아이템에 송장정보가 등록되면 주문 상태를 지정된 상태로 변경합니다., "
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:99
+msgid "NPay"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:100
+msgid "모든 결제수단"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:105
+msgid "지정된 결제수단의 주문건만 송장번호를 등록합니다."
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:115
+msgid "주문아이템"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:116
+msgid "주문"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:117
+msgid "모두"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:121
+msgid "주의사항"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:122
+msgid ""
+"<ul><li>'모두' 또는 '주문'을 선택한 경우, CSV 파일에 '주문번호'가 필수입니다.</li><li>'모두' 또는 "
+"'주문아이템'을 선택한 경우, CSV 파일에 '주문아이템번호'가 필수입니다.</li><li>'모두'를 선택한 경우에는 마지막 "
+"주문아이템의 송장정보가 주문에 저장됩니다.</li></ul>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:134
+msgid "CSV 필드 설정을 초기화하시겠습니까?"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:144
+msgid "CSV 필드 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:161
+msgid "필드 타입"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:164
+msgid "필드 타입을 선택하세요."
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:166
+msgid "주문번호"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:167
+msgid "주문아이템번호"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:168
+msgid "택배사코드"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:169
+msgid "택배사명"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:170
+msgid "송장번호"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:171
+msgid "커스텀"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:176
+msgid "CSV 파일 컬럼명"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:183
+msgid "주문 메타"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings-sheet.php:191
+msgid "주문아이템 메타"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:66
+msgid "NPAY 서비스"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:70
+msgid "서비스 정보"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:116
+#: includes/admin/settings/class-mnp-settings.php:275
+msgid "상점정보"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:155
+msgid "해당없음"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:156
+msgid "개발환경(SandBox)"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:157
+msgid "실환경(Production)"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:173
+msgid "버튼 설정 (PC)"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:182
+msgid "A"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:183
+msgid "B"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:184
+msgid "C"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:185
+msgid "D"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:186
+msgid "E"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:216
+msgid "버튼 설정 (모바일)"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:225
+msgid "MA"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:226
+msgid "MB"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:244
+msgid "버튼 고급설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:252
+msgid ""
+"<div class='desc2'>테마 구조에 따라 상품상세 페이지에서 네이버페이 버튼의 표시위치가 달라집니다. 테마 파일을 참고해서 "
+"위치를 지정하세요.<br>ex) 테마파일내에 do_action( 'woocommerce_after_add_to_cart_button' "
+"); 코드가 있는 위치에 네이버페이 버튼을 출력하려면, woocommerce_after_add_to_cart_button 을 "
+"입력합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:260
+msgid ""
+"<div class='desc2'>테마 구조에 따라 장바구니 페이지에서 네이버페이 버튼의 표시위치가 달라집니다. 테마 파일을 참고해서 "
+"위치를 지정하세요.<br>ex) 테마파일내에 do_action( 'woocommerce_after_cart' ); 코드가 있는 위치에 "
+"네이버페이 버튼을 출력하려면, woocommerce_after_cart 을 입력합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:271
+msgid "포인트 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:283
+msgid ""
+"<div class='desc2'>네이버페이 주문건에 대해 고객에게 포인트를 적립합니다.<br><a target='_blank' "
+"href='https://www.codemshop.com/shop/point/' style='text-decoration: "
+"underline;'>엠샵 포인트 플러그인</a>을 이용하는 경우에만 동작됩니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:291
+msgid ""
+"<div class='desc2'>네이버페이 주문건에 대해 추천인에게 포인트를 적립합니다.<br><a target='_blank' "
+"href='https://www.codemshop.com/shop/referee/' style='text-decoration: "
+"underline;'>엠샵 추천인 플러그인</a>을 이용하는 경우에만 동작됩니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:302
+msgid "구매평"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:306
+msgid " 구매평 연동 기능"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:310
+#: includes/admin/settings/class-mnp-settings.php:501
+msgid "활성화"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:314
+msgid "<div class='desc2'>구매평 연동 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:320
+msgid "구매평 연동 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:325
+msgid "일반 구매평"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:329
+msgid "<div class='desc2'>일반 구매평 연동 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:333
+msgid "프리미엄 구매평"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:337
+msgid "<div class='desc2'>프리미엄 구매평 연동 기능을 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:341
+msgid "구매평 제목 저장"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:345
+msgid "<div class='desc2'>구매평 저장 시, 구매평의 제목을 함께 저장합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:351
+msgid "구매평 수동 동기화"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:357
+msgid "동기화 기간"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:374
+msgid ""
+"<div class='desc2' style='margin-left: 10px;'>네이버페이 구매평을 다시 동기화 하시려면, 동기화 "
+"기간 입력 후 동기화 버튼을 클릭해주세요.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:387
+msgid "배송 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:391
+msgid "배송 수단"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:395
+msgid "배송비 계산 방식"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:400
+msgid "우커머스 배송 정책"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:401
+msgid "배송비 플러그인"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:402
+msgid "직접 입력"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:407
+msgid "무료배송 수단"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:417
+msgid "유료배송 수단"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:432
+msgid "무료배송 최소금액"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:436
+#: includes/admin/settings/class-mnp-settings.php:449
+msgid "무료배송 최소금액 또는 유료배송 비용이 0원인 경우, 항상 무료배송으로 설정됩니다."
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:445
+msgid "유료배송비"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:455
+msgid "반품 배송지"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:497
+#: includes/class-mnp-order.php:380 includes/mnp-functions.php:77
+#: includes/mnp-functions.php:90
+msgid "도서산간 배송비"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:505
+msgid "지역배송비 설정 기능을 사용합니다."
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:516
+#: includes/admin/settings/class-mnp-settings.php:524
+msgid "권역별 배송비"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:517
+msgid "배송비 API"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:537
+msgid "2 단계 (내륙, 제주 및 도서 산간 지역)"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:538
+msgid "3 단계 (내륙, 제주 외 도서 산간 지역, 제주)"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:548
+msgid "2권역 추가배송비"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:560
+msgid "3권역 추가배송비"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:574
+msgid "고급 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:578
+msgid "테그 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:612
+msgid "화면전환 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:621
+#: includes/admin/settings/class-mnp-settings.php:632
+msgid "새탭으로 열기"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:622
+#: includes/admin/settings/class-mnp-settings.php:633
+msgid "현재화면에서 열기"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:640
+msgid "이미지 URL 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:648
+msgid "<div class='desc2'>이미지 파일의 URL을 HTTP로 강제합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:654
+msgid "로그 설정"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:662
+msgid "<div class='desc2'>디버깅을 위한 로그를 기록합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:668
+msgid "NPAY 결제 처리 방식"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:676
+msgid ""
+"<div class='desc2'>커스텀 상품 옵션을 이용하기 위해 3rd Party 플러그인(WooCommerce Product "
+"Add-Ons, WooCommerce TM Extra Product Options)을 사용하는 경우, 옵션을 활성화해주세요.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:684
+msgid "<div class='desc2'>네이버페이 서비스에 문제가 있는 경우에만 비활성화 하시기 바랍니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:690
+msgid "NPAY 공통 스크립트"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:698
+msgid ""
+"<div class='desc2'>NPAY 결제를 위한 공통 유입 스크립트를 출력합니다.<br>네이버 프리미엄 로그 분석 서비스를 "
+"이용하면서 공통스크립트가 중복 출력되는 문제가 발생하는 경우, 해당 옵션을 비활성화 하시기 바랍니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:704
+msgid "문자발송"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:712
+msgid ""
+"<div class='desc2'>네이버페이 주문건의 경우, 주문상태 변경에 따른 문자가 발송되지 않도록 합니다.<br><a "
+"target='_blank' href='https://www.codemshop.com/shop/sms_out/'>엠샵 문자 & 알림톡 "
+"자동 발송 플러그인</a>을 이용하시는 경우에만 동작됩니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:718
+msgid "주문처리"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:726
+msgid "<div class='desc2'>배송지 전화번호를 주문메모란에 기록합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:734
+msgid "<div class='desc2'>배송지 정보를 청구지 주소에도 저장합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:740
+msgid "재고관리"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:748
+msgid "<div class='desc2'>우커머스의 기본 재고관리 기능을 사용하시려면 비활성화 합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:754
+msgid "도서공연비 소득공제"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:762
+msgid "<div class='desc2'>문화체육관광부의 도서공연비 소득공제 정책에 적용되는 상품을 판매하는 경우 활성화합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:768
+msgid "네이버페이 스크립트"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:776
+msgid "<div class='desc2'>네이버페이 스크립트 로딩 시 오류가 발생하는 경우 사용합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:782
+msgid "커스텀 주문상태"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:786
+msgid "부분환불"
+msgstr ""
+
+#: includes/admin/settings/class-mnp-settings.php:790
+msgid ""
+"<div class='desc2'>부분환불(부분취소) 주문상태를 사용합니다. 네이버페이 주문에서 부분환불(부분취소) 발생 시 주문이 "
+"부분취소 상태로 변경됩니다.</div>"
+msgstr ""
+
+#: includes/admin/templates/customer-inquiry-list.php:21
+msgid "NPay 고객문의"
+msgstr ""
+
+#: includes/class-mnp-ajax.php:97
+msgid "리뷰 동기화 기간을 입력해주세요."
+msgstr ""
+
+#: includes/class-mnp-ajax.php:114
+msgid "리뷰가 동기화 되었습니다."
+msgstr ""
+
+#: includes/class-mnp-api.php:81 includes/class-mnp-api.php:82
+#: includes/class-mnp-api.php:83 includes/class-mnp-api.php:84
+#: includes/class-mnp-api.php:85 includes/class-mnp-api.php:86
+msgid "상품주문조회"
+msgstr ""
+
+#: includes/class-mnp-api.php:87
+msgid "상품주문 상세내역 조회"
+msgstr ""
+
+#: includes/class-mnp-callback.php:29
+msgid "잘못된 요청입니다."
+msgstr ""
+
+#: includes/class-mnp-exporter.php:12
+msgid "개인통관고유번호(네이버페이)"
+msgstr ""
+
+#: includes/class-mnp-manager.php:129
+msgid "결제 대기"
+msgstr ""
+
+#: includes/class-mnp-manager.php:131
+msgid "발송 처리"
+msgstr ""
+
+#: includes/class-mnp-manager.php:132
+msgid "발송 지연"
+msgstr ""
+
+#: includes/class-mnp-manager.php:134
+msgid "반품 요청"
+msgstr ""
+
+#: includes/class-mnp-manager.php:135
+msgid "교환 요청"
+msgstr ""
+
+#: includes/class-mnp-manager.php:136
+msgid "교환 재배송 준비"
+msgstr ""
+
+#: includes/class-mnp-manager.php:137
+msgid "구매 확정 보류 요청"
+msgstr ""
+
+#: includes/class-mnp-manager.php:139
+msgid "반품"
+msgstr ""
+
+#: includes/class-mnp-manager.php:140
+msgid "교환"
+msgstr ""
+
+#: includes/class-mnp-manager.php:141
+msgid "구매 확정"
+msgstr ""
+
+#: includes/class-mnp-manager.php:142
+msgid "교환 재배송 처리 완료"
+msgstr ""
+
+#: includes/class-mnp-order.php:114
+msgid "발주처리 - 실패 : %d/%d건"
+msgstr ""
+
+#: includes/class-mnp-order.php:116 includes/class-mnp-order.php:166
+#: includes/class-mnp-order.php:243 includes/class-mnp-sheets-npay.php:118
+#: includes/class-mnp-sheets-npay.php:249
+msgid "%s, %s, %s"
+msgstr ""
+
+#: includes/class-mnp-order.php:120
+msgid "<span style=\"font-size: 0.85em\">[NPay] 발주처리 완료 [%s]</span>"
+msgstr ""
+
+#: includes/class-mnp-order.php:121
+msgid "Order status changed by bulk edit:"
+msgstr ""
+
+#: includes/class-mnp-order.php:125
+msgid "발주 처리중 오류가 발생했습니다. 잠시 후 다시 시도해주세요."
+msgstr ""
+
+#: includes/class-mnp-order.php:164
+msgid "%s처리 - 실패 : %d/%d건"
+msgstr ""
+
+#: includes/class-mnp-order.php:171
+msgid "<span style=\"font-size: 0.85em\">[NPay] %s처리 완료 [%s]</span>"
+msgstr ""
+
+#: includes/class-mnp-order.php:175
+msgid "요청 처리중 오류가 발생했습니다. 잠시 후 다시 시도해주세요."
+msgstr ""
+
+#: includes/class-mnp-order.php:241
+msgid "주문정보 새로고침 - 실패 : %d/%d건"
+msgstr ""
+
+#: includes/class-mnp-order.php:251
+msgid "NPay 주문정보를 확인하는 과정에서 오류가 발생했습니다. 잠시 후 다시 시도해주세요."
+msgstr ""
+
+#: includes/class-mnp-order.php:274
+msgid "환불금액 차감"
+msgstr ""
+
+#: includes/class-mnp-order.php:362 includes/mnp-functions.php:77
+#: includes/mnp-functions.php:90
+msgid "NPAY 배송비"
+msgstr ""
+
+#: includes/class-mnp-order.php:812
+msgid "Item #%s stock reduced from %s to %s."
+msgstr ""
+
+#: includes/class-mnp-order.php:825
+msgid "Item #%s stock increased from %s to %s."
+msgstr ""
+
+#: includes/class-mnp-post-types.php:20
+msgid "발주확인 <span class=\"count\">(%s)</span>"
+msgid_plural "발주확인 <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-mnp-post-types.php:28
+msgid "배송중 <span class=\"count\">(%s)</span>"
+msgid_plural "배송중 <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-mnp-post-types.php:36
+msgid "취소요청 <span class=\"count\">(%s)</span>"
+msgid_plural "취소요청 <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-mnp-post-types.php:44
+msgid "교환요청 <span class=\"count\">(%s)</span>"
+msgid_plural "교환요청 <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-mnp-post-types.php:52
+msgid "반품요청 <span class=\"count\">(%s)</span>"
+msgid_plural "반품요청 <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-mnp-post-types.php:66
+msgid "부분환불 <span class=\"count\">(%s)</span>"
+msgid_plural "부분환불 <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-mnp-sheets-npay.php:126
+#: includes/class-mnp-sheets-npay.php:253
+msgid "네이버페이 배송처리중 오류가 발생했습니다. 잠시 후 다시 시도해주세요."
+msgstr ""
+
+#: includes/class-mnp-sheets-npay.php:151
+#: includes/class-mnp-sheets-npay.php:282
+msgid "<span style=\"font-size: 0.85em\">[NPay] 배송처리 완료 [%s]</span>"
+msgstr ""
+
+#: includes/class-mnp-sheets-npay.php:153
+#: includes/class-mnp-sheets-npay.php:284
+msgid "<span style=\"font-size: 0.85em\">[NPay] 배송처리 오류<br>%s</span>"
+msgstr ""
+
+#: includes/class-mnp-sheets.php:24
+msgid "CSV 필드 설정이 초기화되었습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:99
+msgid "사용 권한이 없습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:103
+msgid "CSV 파일 정보가 없습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:113
+msgid "송장 정보가 없습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:280
+msgid "CSV 파일에 컬럼 정보가 없습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:311
+msgid "오류 (%d행) : 송장번호가 없습니다. "
+msgstr ""
+
+#: includes/class-mnp-sheets.php:315
+msgid "오류 (%d행) : 주문아이템 번호가 없습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:319
+msgid "오류 (%d행) : 주문 번호가 없습니다."
+msgstr ""
+
+#: includes/class-mnp-sheets.php:323
+msgid "오류 (%d행) : 주문 번호 또는 주문 아이템 번호는 필수입니다."
+msgstr ""
+
+#: includes/mnp-functions.php:91
+msgid "NPAY"
+msgstr ""
+
+#: includes/rest-api/class-mnp-rest-npay-controller.php:105
+msgid "Unique identifier for the resource."
+msgstr ""
+
+#: includes/rest-api/class-mnp-rest-npay-controller.php:111
+msgid "Item ID."
+msgstr ""
+
+#: includes/rest-api/class-mnp-rest-npay-controller.php:117
+msgid "Delivery company code."
+msgstr ""
+
+#: includes/rest-api/class-mnp-rest-npay-controller.php:123
+msgid "Sheet No."
+msgstr ""
+
+#: includes/utility/WPUtil.php:28
+msgid "Guest"
+msgstr ""
+
+#: includes/class-mnp-order.php:14 includes/class-mnp-post-types.php:15
+msgctxt "Order status"
+msgid "발주확인"
+msgstr ""
+
+#: includes/class-mnp-order.php:15 includes/class-mnp-post-types.php:23
+msgctxt "Order status"
+msgid "배송중"
+msgstr ""
+
+#: includes/class-mnp-order.php:16
+msgctxt "Order status"
+msgid "배송완료"
+msgstr ""
+
+#: includes/class-mnp-order.php:17 includes/class-mnp-post-types.php:31
+msgctxt "Order status"
+msgid "취소요청"
+msgstr ""
+
+#: includes/class-mnp-order.php:18
+msgctxt "Order status"
+msgid "교환신청"
+msgstr ""
+
+#: includes/class-mnp-order.php:19
+msgctxt "Order status"
+msgid "반품신청"
+msgstr ""
+
+#: includes/class-mnp-order.php:24 includes/class-mnp-post-types.php:61
+msgctxt "Order status"
+msgid "부분환불"
+msgstr ""
+
+#: includes/class-mnp-post-types.php:39
+msgctxt "Order status"
+msgid "교환요청"
+msgstr ""
+
+#: includes/class-mnp-post-types.php:47
+msgctxt "Order status"
+msgid "반품요청"
+msgstr ""

@@ -1,0 +1,1 @@
+jQuery(document).ready(function(n){"use strict";n("a[href=mnp_manual]").on("click",function(n){n.preventDefault(),n.stopPropagation(),window.open(_mnp_admin_menu.manual_url,"_blank")})});
